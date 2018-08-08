@@ -1,6 +1,8 @@
 body{
 	font-size:15px;
 	background: #f4f4f4;
+  	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
 }
 
 .add-btn{
@@ -62,4 +64,22 @@ ul li {
   visibility:visible;
 }
 
+/* Footer */
+#footer {
+	background: #fff;
+}
+
+#footer-inner{
+	margin: auto;
+	text-align: center;
+	padding: 12px;
+}
+
+.clr{
+	clear: both;
+	padding: 0;
+	width: 100%;
+	font-size: 0px;
+	line-height: 0px;
+}
 

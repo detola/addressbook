@@ -186,6 +186,10 @@
     <script>
       $(document).foundation();
     </script>
-    <p>Made with love by Detola</p>
+    <footer id="footer">
+      <div id="footer-inner">
+        <p >Made with <span style="font-size:100%; color:red;">&hearts;</span> by Detola.</p>
+      </div>
+    </footer>
   </body>
 </html>
